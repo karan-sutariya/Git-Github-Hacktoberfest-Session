@@ -1,5 +1,7 @@
 # Git/Github Hacktoberfest Session
 
+
+
 ![Git/Github Hacktoberfest Session](https://github.com/DSC-IIT-GOA/Git-Github-Hacktoberfest-Session/blob/main/Resource/Artboard%201slide.png)
 
 <div align="center">
